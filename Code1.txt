@@ -3,3 +3,4 @@ this is a sample text file
 hello world
 
 this is a new update
+new line
